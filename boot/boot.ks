@@ -2,4 +2,4 @@
 
 clearscreen.
 core:part:getmodule("kOSProcessor"):doevent("Open Terminal"). // Automatically open terminal 
-runpath("0:/Launch.ks"). // Launch main script. Changes in Launch.ks will take place right away.
+runpath("0:/Hover.ks"). // Launch main script. Changes in Launch.ks will take place right away.
